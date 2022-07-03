@@ -1,5 +1,5 @@
 #  head-football
-this is a simple head football name made in the
+this is a simple head football game made in the
 c++ language.
 
 # controls
